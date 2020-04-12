@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": process.env.GHOST_API_URL,
-    "contentApiKey": process.env.GHOST_CONTENT_API_KEY
+    "apiUrl": "https://velvetnavy-staging.herokuapp.com/",
+    "contentApiKey": "182ec6bee166f1759facfee962"
   },
   "production": {
-    "apiUrl": process.env.GHOST_API_URL,
-    "contentApiKey": process.env.GHOST_CONTENT_API_KEY
+    "apiUrl": "https://velvetnavy-staging.herokuapp.com/",
+    "contentApiKey": "182ec6bee166f1759facfee962"
   }
 }
