@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://velvetnavy-staging.herokuapp.com",
-    "contentApiKey": "9199811ea2c527f29d1bee4c94"
+    "apiUrl": "https://velvetnavy-admin.herokuapp.com",
+    "contentApiKey": "8203e545220a02006eb46d697f"
   },
   "production": {
-    "apiUrl": "https://velvetnavy-staging.herokuapp.com",
-    "contentApiKey": "9199811ea2c527f29d1bee4c94"
+    "apiUrl": "https://velvetnavy-admin.herokuapp.com",
+    "contentApiKey": "8203e545220a02006eb46d697f"
   }
 }
